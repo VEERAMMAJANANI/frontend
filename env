@@ -1,2 +1,2 @@
-MOONGODB_URL="mongodb+srv://jananikannan1545:yg0GrdDq8NF8T5yl@cluster0.96wdk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_URL="mongodb+srv://jananikannan1545:yg0GrdDq8NF8T5yl@cluster0.96wdk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
